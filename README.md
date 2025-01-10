@@ -12,7 +12,7 @@ This airline management system is a Java-based application which facilitates the
 
 ### Steps:
 
-* Clone the repository to your local machine using git clone <https://github.com/PatrickOrjieh/Travel-Booking-System.git>.
+* Clone the repository to your local machine using git clone <https://github.com/priyanshu639/Online-Travel-Booking-System.git>.
 * Import the project into your favorite Java IDE.
 * Set up a local MySQL server and create a database named travel_booking_system.
 * Run the newSqlSetUp.sql script in your MySQL server to set up the required tables and relationships.
